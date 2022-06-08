@@ -186,9 +186,6 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 * [中国大陆高校列表爬虫](https://github.com/codeudan/crawler-china-mainland-universities.git)
 * [站酷（zcool.com.cn）图片爬虫](https://github.com/lonsty/scraper)
 
-### \#
-* [80s 影视资源爬虫 - JianSo_Movie](https://github.com/but0n/JianSo_Movie)
-
 ### 其他
 * [各种爬虫](https://github.com/Nyloner/Nyspider)
 * [DHT 爬虫](https://github.com/blueskyz/DHTCrawler)
