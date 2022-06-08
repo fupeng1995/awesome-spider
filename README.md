@@ -169,7 +169,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 * [雪球股票信息(java)](https://github.com/decaywood/XueQiuSuperSpider)
 * [新浪微博](https://github.com/LiuXingMing/SinaSpider)
 * [新浪微博分布式爬虫](https://github.com/ResolveWang/weibospider)
-* [心灵毒鸡汤](https://github.com/sy-records/speech_spiders/tree/master/chicken-soup)
+* <color=green>[心灵毒鸡汤](https://github.com/sy-records/speech_spiders/tree/master/chicken-soup)</color>
 * [闲鱼最新商品爬取](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/XianyuCrawler)
 * [H 片下载工具（xvideos.com）](https://github.com/lonsty/xvideos-dl)
 
