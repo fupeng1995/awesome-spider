@@ -102,7 +102,7 @@ warning: 爬虫有时效性，如没法直接运行，请适当更改逻辑。
 
 ### N
 * [新闻监控](https://github.com/NolanZhao/news_feed)
-* [你好污啊](https://github.com/sy-records/speech_spiders/tree/master/nihaowu)
+* √ [你好污啊](https://github.com/sy-records/speech_spiders/tree/master/nihaowu)
 
 ### O
 * [ofo共享单车爬虫](https://github.com/SilverBooker/ofoSpider)
